@@ -8,4 +8,4 @@ Para iniciar um repositorio do Git em alguma pasta do linux. você precisa estar
 
 	Salvando Alterações
 
-Para fazer o Git salvar alterações primeiro e necessario que ele faça a monitoração dos mesmo, para isso é só usar o comando "git add" pois somente assim ele vai começar a fazer a monitoração dos arquivos selecionados, ou então para monitorar logo tudo é só usar o comando "git add ." E agora que está tudo conectado é só fazer um commit para salvar todas as modificações.
+Para fazer o Git salvar alterações primeiro é necessario que ele faça a monitoração dos mesmo, para isso é só usar o comando "git add" pois somente assim ele vai começar a fazer a monitoração dos arquivos selecionados, ou então para monitorar logo tudo é só usar o comando "git add ." E agora que está tudo conectado é só fazer um commit para salvar todas as modificações.
