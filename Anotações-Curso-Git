@@ -1,1 +1,11 @@
-Oque é o Git
+	Oque é o Git
+
+O Git serve principalmente para fazer o controle de versão dos seus projetos, guardando cópias de todas as alterações, e com isso se em algum momento você precisar restaurar algo pode usar o historico salvo que a qualquer momento pode ser visualizado e restaurado.
+
+	Repositorios do Git na sua maquina
+
+Para iniciar um repositorio do Git em alguma pasta do linux. você precisa estar dentro dela e executar o comando git init, com isso ele reconhecera a pasta em que está como um repositorio do Git assim aguardando quais arquivos desse repositorio serão versionados
+
+	Salvando Alterações
+
+Para fazer o Git salvar alterações primeiro e necessario que ele faça a monitoração dos mesmo, para isso é só usar o comando "git add" pois somente assim ele vai começar a fazer a monitoração dos arquivos selecionados, ou então para monitorar logo tudo é só usar o comando "git add ." E agora que está tudo conectado é só fazer um commit para salvar todas as modificações.
